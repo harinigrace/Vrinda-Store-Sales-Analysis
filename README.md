@@ -58,7 +58,7 @@ The dashboard allows users to dynamically filter and analyze sales across differ
 
 ## 📈 Dashboard
 
-![Vrinda Store Dashboard](Vrinda_Store_Dashboard.png)
+![Dashboard](Vrinda_Store_Dashboard.png)
 
 ## 📊 Dashboard Insights
 
