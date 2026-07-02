@@ -56,11 +56,11 @@ An interactive Excel dashboard was created using:
 
 The dashboard allows users to dynamically filter and analyze sales across different business dimensions.
 
-## 📈 Dashboard
+## Dashboard
 
 ![Dashboard](Vrinda%20Store%20Analysis.png)
 
-## 📊 Dashboard Insights
+## Dashboard Insights
 
 - Women contributed approximately **64%** of total sales.
 - The **Adult** age group generated the highest sales.
@@ -69,7 +69,7 @@ The dashboard allows users to dynamically filter and analyze sales across differ
 - More than **90%** of orders were successfully delivered.
 - Monthly sales trends revealed seasonal variations in customer demand.
   
-## 💡 Business Recommendation
+## Business Recommendation
 
 Based on the analysis, Vrinda Store can improve sales by:
 
@@ -78,7 +78,7 @@ Based on the analysis, Vrinda Store can improve sales by:
 - Strengthening partnerships with Amazon, Myntra, and Flipkart.
 - Leveraging seasonal sales trends to optimize inventory and marketing strategies.
   
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
